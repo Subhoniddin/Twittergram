@@ -1,0 +1,1 @@
+INSERT INTO posts(img, content) VALUES ('http://localhost:9999/https://a.d-cd.net/291449ds-960.jpg', 'Audi S8 color black 2021');
